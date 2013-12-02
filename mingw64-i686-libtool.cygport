@@ -3,7 +3,7 @@ inherit cross
 
 NAME="mingw64-i686-libtool"
 VERSION=2.4.2
-RELEASE=2
+RELEASE=4
 CATEGORY="Devel"
 SUMMARY="libtool for Win32 toolchain"
 HOMEPAGE="http://www.gnu.org/software/libtool/"
